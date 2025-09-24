@@ -1,12 +1,3 @@
-"""
-Trajectory loading utilities for SketchQL.
-
-This module provides functions to load trajectories saved by the trajectory_drawer.py
-tool and convert them to the format required by the SketchQL model.
-
-Author: SketchQL Team
-"""
-
 import json
 import torch
 import numpy as np

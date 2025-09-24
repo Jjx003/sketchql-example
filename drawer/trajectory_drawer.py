@@ -17,8 +17,6 @@ Controls:
     - C: Clear all trajectories
     - R: Reset to start
     - ESC: Exit
-
-Author: SketchQL Team
 """
 
 import pygame
